@@ -1,2 +1,2 @@
-require('dotfiles')
+require('tausiq')
 

@@ -12,6 +12,6 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup({
-    spec = "dotfiles.lazy",
+    spec = "tausiq.lazy",
     change_detection = { notify = false }
 })
